@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ligaportugal2223j4a",
+         "name":"vs Boavista (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligaportugal2223j4b",
+         "name":"vs Boavista (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ligaportugal2223j2",
          "name":"vs Casa Pia",
          "animated_sticker_pack":false,
