@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ligaportugal2223j3a",
+         "name":"vs Pacos Ferreira (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligaportugal2223j3b",
+         "name":"vs Pacos Ferreira (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ligaportugal2223j4a",
          "name":"vs Boavista (1)",
          "animated_sticker_pack":false,
