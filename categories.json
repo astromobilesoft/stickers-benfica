@@ -3,17 +3,17 @@
       {
          "file":"new.json",
          "name_EN":"New",
-         "name_ES":"Nuevos",
+         "name_ES":"Nuevos"
       },
       {
          "file":"ligaportugal2223.json",
          "name_EN":"Liga Portugal",
-         "name_ES":"Liga Portugal",
+         "name_ES":"Liga Portuga2"
       },
       {
          "file":"club.json",
-         "name_EN":"Club",
-         "name_ES":"Club",
+         "name_EN":"Club1",
+         "name_ES":"Club2",
       }
    ]
 }
